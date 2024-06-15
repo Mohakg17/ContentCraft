@@ -7,7 +7,7 @@ https://github.com/Mohakg17/ContentCraft/assets/146119834/8a2fcced-dd1f-4fc8-885
 ## Video Demonstration -Login and Content Generation
 https://github.com/Mohakg17/ContentCraft/assets/146119834/23db4641-c94f-4cf1-8f0e-3849fb57f6ee
 
-## Some Images
+## Some Images of ContentCraft
 ![IMG-20240615-WA0002](https://github.com/Mohakg17/ContentCraft/assets/146119834/28649bc1-d110-4ab5-84ba-086634b42c5e)
 ![IMG-20240615-WA0005](https://github.com/Mohakg17/ContentCraft/assets/146119834/318f1d04-df11-4edb-a3be-f4e1291116bd)
 ![IMG-20240615-WA0000](https://github.com/Mohakg17/ContentCraft/assets/146119834/5db2b3a9-6bee-435b-85fa-913dbe951106)
