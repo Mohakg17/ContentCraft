@@ -1,9 +1,13 @@
 # ContentCraft
 AI Content Generation Application
 
-## Video Demonstration
+## Video Demonstration 1
 https://github.com/Mohakg17/ContentCraft/assets/146119834/8a2fcced-dd1f-4fc8-885e-970c187be58b
 
+## Video Demonstration 2
+https://github.com/Mohakg17/ContentCraft/assets/146119834/23db4641-c94f-4cf1-8f0e-3849fb57f6ee
+
+## Some Images
 
 ## Features
 
