@@ -56,7 +56,7 @@ const CheckoutForm = () => {
           elements,
           clientSecret: mutation?.data?.clientSecret,
           confirmParams: {
-            return_url: "https://contentcraft-backend.onrender.com/success",
+            return_url: "https://contentcraft-backend.onrender.com",
           },
         });
         if (error) {
