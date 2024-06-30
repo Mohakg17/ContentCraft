@@ -3,7 +3,7 @@ import axios from "axios";
 
 export const generateContentAPI = async (userPrompt) => {
   const response = await axios.post(
-    "https://contentcraft-backend.onrender.com",
+    "http://localhost:8002/api/v1/openai/generate-content",
     {
       prompt: userPrompt,
     },
