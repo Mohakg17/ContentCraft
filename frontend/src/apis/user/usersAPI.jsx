@@ -5,7 +5,7 @@ import axios from "axios";
 
 export const registerAPI = async (userData) => {
     const response = await axios.post(
-      "http://localhost:8002/api/v1/users/register",
+      "https://contentcraft-backend.onrender.com/api/v1/users/register",
       {
         email: userData?.email,
         password: userData?.password,
@@ -21,7 +21,7 @@ export const registerAPI = async (userData) => {
 
 export const loginAPI = async (userData) => {
     const response = await axios.post(
-      "http://localhost:8002/api/v1/users/login",
+      "https://contentcraft-backend.onrender.com/api/v1/users/login",
       {
         email: userData?.email,
         password: userData?.password,
@@ -36,7 +36,7 @@ export const loginAPI = async (userData) => {
 
 export const checkUserAuthStatusAPI = async () => {
   const response = await axios.get(
-    "http://localhost:8002/api/v1/users/auth/check",
+    "https://contentcraft-backend.onrender.com/api/v1/users/auth/check",
     {
       withCredentials: true,
     }
@@ -47,7 +47,7 @@ export const checkUserAuthStatusAPI = async () => {
 
 export const logoutAPI = async () => {
   const response = await axios.post(
-    "http://localhost:8002/api/v1/users/logout",
+    "https://contentcraft-backend.onrender.com/api/v1/users/logout",
     {},
     {
       withCredentials: true,
@@ -59,7 +59,7 @@ export const logoutAPI = async () => {
 
 export const getUserProfileAPI = async () => {
   const response = await axios.get(
-    "http://localhost:8002/api/v1/users//userProfile",
+    "https://contentcraft-backend.onrender.com/api/v1/users//userProfile",
 
     {
       withCredentials: true,
