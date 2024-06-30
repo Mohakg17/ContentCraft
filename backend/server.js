@@ -17,14 +17,6 @@ connectDB()
 const app= express();
 const PORT = 8002 || process.env.PORT;
 
-app.use(cors(
-    {
-        origin: [""],
-        methods: ["POST", "GET"],
-        credentials: true
-    }
-    ));
-
 cron.schedule("0 0 * * * *", async () => {
     console.log("This task runs every second");
     try {
